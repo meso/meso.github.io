@@ -1,0 +1,26 @@
+theme = "hyde-x"
+title = "自分の感受性くらい"
+baseurl = "https://meso.github.io/"
+languageCode = "ja"
+MetaDataFormat = "toml"
+paginate = 10
+hasCJKLanguage = true
+
+[author]
+  name = "Toshihiro Shimizu"
+
+[params]
+  truncate = true
+  theme = "theme-base-0d"
+  highlight = "sunburst"
+  tagline = "自分の感受性くらい"
+  home = "meso.github.io"
+  gravatarHash = "faa16e98b5c550a72f858f550cdf696d"
+  hideReadingTime = true
+  googleAnalytics = "UA-2570409-11"
+
+  github = "https://github.com/meso"
+  twitter = "https://twitter.com/meso"
+  facebook = "https://facebook.com/toshihiro"
+  
+  rss = true
