@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 自分の感受性くらい</title>
-    <link>https://meso.github.io/post/</link>
-    <description>Recent content in Posts on 自分の感受性くらい</description>
+    <title>プログラミング言語 on 自分の感受性くらい</title>
+    <link>https://meso.github.io/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E/</link>
+    <description>Recent content in プログラミング言語 on 自分の感受性くらい</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 25 Dec 2017 12:00:00 +0900</lastBuildDate>
     
-	<atom:link href="https://meso.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://meso.github.io/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <description>&lt;p&gt;この記事は&lt;a href=&#34;http://qiita.com/advent-calendar/2017/dwango&#34;&gt;ドワンゴ Advent Calendar 2017&lt;/a&gt;の最終日のエントリです。前日の記事は、&lt;a href=&#34;https://twitter.com/kwappa&#34;&gt;kwappa&lt;/a&gt; による&lt;a href=&#34;https://dwango.github.io/articles/engineers-resume/&#34;&gt;エンジニアが読みたくなる職務経歴書&lt;/a&gt;でした。&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>エンジニアのキャリアパスとしての人事部長</title>
-      <link>https://meso.github.io/post/engineer-to-hr/</link>
-      <pubDate>Sun, 25 Dec 2016 12:00:00 +0900</pubDate>
-      
-      <guid>https://meso.github.io/post/engineer-to-hr/</guid>
-      <description>&lt;p&gt;この記事は&lt;a href=&#34;http://qiita.com/advent-calendar/2016/dwango&#34;&gt;ドワンゴ Advent Calendar 2016&lt;/a&gt;の最終日のエントリです。前日の記事は、&lt;a href=&#34;https://twitter.com/kwappa&#34;&gt;kwappa&lt;/a&gt; による&lt;a href=&#34;http://ch.nicovideo.jp/dwango-engineer/blomaga/ar1161598&#34;&gt;ドワンゴの「技術コミュニケーション室」（技コミ） #とは&lt;/a&gt;でした。&lt;/p&gt;</description>
     </item>
     
   </channel>
