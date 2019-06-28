@@ -6,10 +6,19 @@
     <description>Recent content on 自分の感受性くらい</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 25 Dec 2017 12:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2019 13:39:49 +0900</lastBuildDate>
     
 	<atom:link href="https://meso.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>株式会社ドワンゴを退職します</title>
+      <link>https://meso.github.io/post/farewell-dwango/</link>
+      <pubDate>Fri, 28 Jun 2019 13:39:49 +0900</pubDate>
+      
+      <guid>https://meso.github.io/post/farewell-dwango/</guid>
+      <description>こんにちは。お久しぶりです。mesoです。 2019年6月末をもちまして株式会社ドワンゴを退職いたします。 兼務出向していた株式会社バーチャルキ</description>
+    </item>
     
     <item>
       <title>ドワンゴ Slack のプログラミング言語チャンネルの参加数ランキングと推移</title>
@@ -17,9 +26,7 @@
       <pubDate>Mon, 25 Dec 2017 12:00:00 +0900</pubDate>
       
       <guid>https://meso.github.io/post/dwango-slack-language/</guid>
-      <description>&lt;p&gt;この記事は&lt;a href=&#34;http://qiita.com/advent-calendar/2017/dwango&#34;&gt;ドワンゴ Advent Calendar 2017&lt;/a&gt;の最終日のエントリです。前日の記事は、&lt;a href=&#34;https://twitter.com/kwappa&#34;&gt;kwappa&lt;/a&gt; による&lt;a href=&#34;https://dwango.github.io/articles/engineers-resume/&#34;&gt;エンジニアが読みたくなる職務経歴書&lt;/a&gt;でした。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;この記事は&lt;a href=&#34;http://qiita.com/advent-calendar/2017/dwango&#34;&gt;ドワンゴ Advent Calendar 2017&lt;/a&gt;の最終日のエントリです。前日の記事は、&lt;a href=&#34;https://twitter.com/kwappa&#34;&gt;kwappa&lt;/a&gt; による&lt;a href=&#34;https://dwango.github.io/articles/engineers-resume/&#34;&gt;エンジニアが読みたくなる職務経歴書&lt;/a&gt;でした。&lt;/p&gt;</description>
     </item>
     
     <item>
