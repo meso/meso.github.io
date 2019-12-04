@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 自分の感受性くらい</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Posts on 自分の感受性くらい</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Jun 2019 13:39:49 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2019 15:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://meso.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>JSConf JPで託児サービスを提供しました</title>
+      <link>https://meso.github.io/post/jsconf-jp-2019/</link>
+      <pubDate>Wed, 04 Dec 2019 15:00:00 +0900</pubDate>
+      
+      <guid>https://meso.github.io/post/jsconf-jp-2019/</guid>
+      <description>こんにちは。SO Technologiesのmesoです。今回は、先週末に開催された JSConf JP にて、運営スタッフとして託児サービスを提供した件につい</description>
+    </item>
     
     <item>
       <title>株式会社ドワンゴを退職します</title>
@@ -17,7 +26,7 @@
       <pubDate>Fri, 28 Jun 2019 13:39:49 +0900</pubDate>
       
       <guid>https://meso.github.io/post/farewell-dwango/</guid>
-      <description>こんにちは。お久しぶりです。mesoです。 2019年6月末をもちまして株式会社ドワンゴを退職いたします。 兼務出向していた株式会社バーチャルキ</description>
+      <description>こんにちは。お久しぶりです。mesoです。 2019年6月末をもちまして株式会社ドワンゴを退職いたします。兼務出向していた株式会社バーチャルキ</description>
     </item>
     
     <item>
